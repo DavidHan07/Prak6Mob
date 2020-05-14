@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Modul6_145</string>
+    <string name="title_insert">Masukan Data</string>
+    <string name="title_read">Daftar Mahasiswa</string>
+    <string name="nim">NIM</string>
+    <string name="nama">Nama</string>
+    <string name="fakultas">Fakultas</string>
+    <string name="jurusan">Jurusan</string>
+    <string name="submit">Submit</string>
+    <string name="updatedata">Update Data</string>
+    <string name="total">Total Mahasiswa</string>
+    <string name="teknik">Mahasiswa Teknik</string>
+    <string name="informatika">Mahasiswa Informatika</string>
+    <string name="lastUpdate">Last Update</string>
+</resources>

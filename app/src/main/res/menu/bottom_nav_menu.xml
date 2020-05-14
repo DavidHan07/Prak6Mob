@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_insert"
+        android:icon="@drawable/insert_480px"
+        android:title="Masukan" />
+
+    <item
+        android:id="@+id/navigation_read"
+        android:icon="@drawable/read_480px"
+        android:title="Daftar Mahasiswa" />
+
+</menu>
